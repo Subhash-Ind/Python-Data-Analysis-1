@@ -2,4 +2,4 @@ Python library, for loop, user defined function, built-in function, regular expr
 Source file format: Notepad file (.txt)
 Destination file format: Notepad file (.txt)
 Here, I am going to change the 32nd column name from i32 to Timestamp and move the column no. 32nd at the first position.
-for code open the file titled as 'Python-Data-Analysis-1.html'
+for code, download the files from code section and open the file titled as 'Python-Data-Analysis-1.html'
